@@ -1,4 +1,4 @@
-This blog is base on Chirpy Jekyll Theme, please check the following pages if you need additional informations:  
+This blog is based on Chirpy Jekyll Theme, please check the following pages if you need additional informations:  
  - [Jekyll](https://jekyllrb.com/)
  - [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy)
 
