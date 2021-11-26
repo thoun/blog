@@ -111,7 +111,7 @@ private static function toNotifArray($array_or_value)
         }, $array_or_value);
     }
     if (is_object($array_or_value)) {
-        return (array)$array_or_value;
+        return toNotifArray((array)$array_or_value);
     }
     return $array_or_value;
 }
