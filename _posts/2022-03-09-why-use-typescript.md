@@ -14,7 +14,7 @@ I'll show 2 examples, one using JavaScript, the other using TypeScript. In both 
 Here is an example using only JavaScript :
 
 <video controls width="1668" height="992">
-    <source src="{{ site.baseurl }}/blog/assets/video/typescript/js.avi" type="video/avi">
+    <source src="https://bga-devs.github.io/blog/assets/video/typescript/js.avi" type="video/avi">
 </video>
 
 At the end, no JS error is visible, but the code doesn't work. I need to do more debugging, but I skipped that part so the video isn't too long, but you got it, it's long and it's a pain.
@@ -22,7 +22,7 @@ At the end, no JS error is visible, but the code doesn't work. I need to do more
 Here is the example using TypeScript :
 
 <video controls width="1668" height="992">
-    <source src="{{ site.baseurl }}/blog/assets/video/typescript/ts.avi" type="video/avi">
+    <source src="https://bga-devs.github.io/blog/assets/video/typescript/ts.avi" type="video/avi">
 </video>
 
 As you can see, as TypeScript got strong typing check, I can see errors and fix them when I'm writing my code, instead of waiting run-time to see/debug.
